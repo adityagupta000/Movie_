@@ -46,10 +46,5 @@ MovieBook/
 - Click the "Add to Favorites" button to save movies to the favorites list.
 - Navigate to the "Favorites" page to view saved movies.
 
-## 🤝 Contributing
 
-Contributions are welcome! Feel free to submit a PR.
 
-## 📜 License
-
-This project is licensed under the MIT License.
