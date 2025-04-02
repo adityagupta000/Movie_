@@ -37,7 +37,7 @@ export default function Navbar() {
     <nav className="bg-blue-600 p-4 shadow-md">
       <div className="container mx-auto flex justify-between items-center">
         <div className="text-white text-2xl font-bold">
-          <Link href="/">Cobra</Link>
+          <Link href="/">Movie_Fav</Link>
         </div>
 
         <form className="relative w-1/2 sm:w-72" onSubmit={handleSubmit}>
