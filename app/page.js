@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 import MovieCard from "./Components/MovieCard";
 import { useSearch } from "./contexts/SearchContext";
 
-const API_KEY = "38c0eda6";
+const API_KEY = "Place your OMDB API";
 
 export default function Home() {
   const { search, searchQuery } = useSearch();
